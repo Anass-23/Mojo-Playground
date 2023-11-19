@@ -78,7 +78,7 @@ Mojo Playground thrives on collaboration! If you have a cool experiment, benchma
 
     Whether it's a new experiment or a performance boost, commit your changes and push them to your forked repository.
 
-    In Mojo Playground 🔥, each experiment, benchmark, or project has its own folder, named with a number-title format e.g. `00-memory_management`. Make sure to include all necessary files, and don't forget to provide a README explaining what your Mojo art piece is all about!
+    In Mojo Playground 🔥, each experiment, benchmark, or project has its own folder, named with a number-title format e.g. `00-memory_management`. Make sure to include all necessary files, and don't forget to provide a README or a `doc` directory explaining what your Mojo art piece is all about!
 
     ```bash
     git add .
